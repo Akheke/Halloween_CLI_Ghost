@@ -18,7 +18,7 @@ Anyway, let's just take it easy.
 
 ## Features
 ```
-Dear reader's
+Dear readers
 When I find a built file, I'll go knock on it.
 Best wishes,
 Ghost
